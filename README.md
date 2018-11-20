@@ -1,5 +1,5 @@
 # サクサク農園（sakusaku farm）
- 農園育成シミュレーションゲームを作ろうとした時のものです。
+ ゲームプログラマを目指していた頃に、農園育成シミュレーションゲームを作ろうとした時のものです。
  
  This is a simulation RPG game of growing farm.
  
